@@ -1,0 +1,68 @@
+$ Changes are presently ordered as encountered in Williams -- NOT chronologically.
+
+$ s3 Vulgar Latin accent
+
+$ s6 VL tonic vowels
+    [+syl,-lo,-hi,-long] > [-tense] $ lax e,o TODO verify -hi
+    [+syl,-long] > -hi $ lower i,u
+    [+syl] > [-long] $ shorten a:,e:,i:,o:,u:
+    ˈa e̯ > ˈɛ
+    ˈo e̯ > ˈe
+
+
+$ s7 VL atonic vowels
+    [+syl,-hi,-lo,-stres] > [+tense] $ ɛ>e ɔ>o
+    $ TODO add rule: initial au > a followed by syll with accented u
+    $ a w > a / __ ([-syl])* u $ mediocre...
+
+
+$ s11 Prosthetic e (wp says ɪ)
+    ∅ > e / # __ s
+
+$ s12 Consonant changes
+
+    $ Palatalization changes: 1-3
+
+        $ 12.3. tj > tsj 
+            t > t͡s / __ j
+        $ 12.3. tsj > ts "a century or two earlier" than cj>tsj
+            j > ∅ / t͡s __
+        $ 12.3. cj > tsj
+            k > t͡s / __ j
+
+        $ 12.2,12.1. k > kj, g > gj / __ e;i
+            ∅ > j / [+cons,+back] __ [+syl,+front,-lo] $ TODO specify cons further if needed
+
+        $ 12.1. kj > tj
+            k > t / __ j
+
+        $ 12.1. tj > ts
+            t j > t͡s
+
+        $ 12.3. gj,dj > j
+            [+cons,+voi] > ∅ / __ j
+
+    $ 12.4. voicing of intervocalic surds and V__l;r
+        [-voi] > [+voi] / [+syl] __ [+son,-nas]
+
+    $ 12.4. ...and b > β
+        b > β / [+syl] __ [+son,-nas]
+
+    $ 12.5 final t,d "fell" (deleted?) after V/C (so always?)
+        {t;d} > {∅;∅} / __ #
+    $ 12.6 rs>ss ps>ss pt>tt nct>nt nf>f ns>s ks>s* (*usually)
+        {r;p} > {s;s} / __ s
+        p t > t t
+        n c t > n t $ ŋt according to wp
+        n f > f
+        n s > s $ compensatory lengthening???
+        k s > s
+    $ 12.8 h deletion
+        h > ∅
+    $ 12.8 word-final m deletion except in monosyllables > n
+        $ m > n / [] __ # $ TODO finish making this rule, check monos at time step
+        m > ∅ / __ #
+    $ 12.9 w > v
+        w > v
+
+=Vulgar Latin

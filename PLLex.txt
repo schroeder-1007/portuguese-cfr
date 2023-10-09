@@ -1,0 +1,30 @@
+$Vowel changes from CL > VL, s6-7
+
+$Tonic
+ˈaː , ˈa
+ˈeː , ˈe
+ˈiː , ˈi
+ˈoː , ˈo
+ˈuː , ˈu
+ˈa , ˈa
+ˈe , ˈɛ
+ˈi , ˈe
+ˈo , ˈɔ
+ˈu , ˈo
+
+$Atonic
+aː , a
+eː , e
+iː , i
+oː , o
+uː , u
+a , a
+e , e
+i , e
+o , o
+u , o
+
+$Diphthongs
+ˈa e̯ , ˈɛ
+ˈo e̯ , ˈe
+ˈa w , ˈa w
