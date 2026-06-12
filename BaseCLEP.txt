@@ -1,0 +1,59 @@
+$Classical Latin to Portuguese on the basis of Rip Cohen 2013 Sketch of the Historical Phonology of Galician Portuguese
+
+$TODO CURRENLY AT BOTTOM OF PAGE 12, ě  > a rule. 
+
+$=Classical Latin 
+
+$ae > e. Bandaid. 
+[+lo,astres,bprim] e̯ > ∅ [+syl,astres,bprim] 
+
+$Vowel quality change I. Cohen p6
+[+syl,-lo,-long] > [-tense]
+
+=Proto-Romance 
+
+$Loss of vowel length. Cohen p6. Not in Sardinian 
+[+syl] > [-long] 
+
+=Continental Proto-Romance
+ 
+$Vowel quality change II - lax high to tense mid. Not simply such in Romanian, parts of S. Italo-Romance. Cohen p6
+[+hi,-tense,+syl] > [+tense,-hi]
+
+=West Proto-Romance
+
+$Intertonic ɛ, ɔ lost across the board per Cohen 11, 12. Based on examples, he just uses 'intertonic' for 'interconsonantal in internal syllable'. Not shared with French as per current treatment, but COULD be argued for {ouvrier, levrier, souv{e}rain, palefroi}. Note that all cases , ɛ and ɔ, he lists are in labial __ r though {nembrar, abrir, cobrir, livrar}. TODO CHECK IF SHARED WITH SPANISH
+[-stres,-tense,-hi] > ∅ / [+syl] ([-syl])+ __ ([-syl])+ [+syl]
+
+$Intertonic e lost between l/r/n/s and stop. COUNTERBLEEDS LENITION. Many overlap with French but conditioning and timing slightly different {chevaucher vs. cavagar, bonté vs. bondade, loyauté vs. lealdade}. Only listed for ɪ in Cohen but is probably both. Cohen p11-12. TODO CHECK IF SHARED WITH SPANISH. Excpetoins caridade, dovidar/duvidar, juizar, partiçon, poridade, sospirar -- he considers to be loaned words. Also between stops, broadly construed, which results in FEEDING dz-d- > dz phoneom in recitare > rezar. Does not seem to happen between [non-palatal] coronal stops though -- traditorem >traedor. 
+e > ∅ / [+syl] ([-syl])* {[σcor,σcont];[-cont,+cor,-ant]} __ [-cont] ([-syl])* [+syl]
+
+$Cohen p12 seems to see intertonic o lost in peripheral stop __ coronal. TODO CHECK IF SHARED WITH FRENCH. TODO CHECK IF SHARED IWTH SPANISH. 
+o > ∅ / [+syl] ([-syl])* [-cont,-cor] __ [+cor] ([-syl])* [+syl]
+
+
+
+$omitting these -- too moprhological
+	$ "Intertonic e̩ is lost in the future of some verbs with stems ending n- or r- " -- Cohen p11
+	$ -i- is lost in the future of verbs in -ir -- p12
+
+
+
+
+
+$tensing of lax atonics -- Cohen p11 on final -ɛ. Nothing explicit for  -ɔ. For intertonic,s this must come after difference in syncope so likely not pan-West-Romance. TODO CHECK IF SHARED WITH SPANISH 
+{ɛ,ɔ} > {e,o}
+
+=Proto-Ibero-Romance 
+
+$pre-tonic aw > a if "accented" a follows. Cohen p8-9 + sources therein. Not shared with Spanish it seems, because it is fed by something spanish doesn't have -- fabulari > falar vs sp. hablar
+w > ∅ / [+lo] __ ([-syl])* [+prim,+lo]
+
+$Cohen p12 ei > ii hiatus rule. FED BY loss of internal d, n -- siia, viir from venir -- should be late -- cf Old Leoniese venir, Spanish venir. 
+{ɛ;ˌɛ;ˈɛ;ɛ̃;ˌɛ̃;ˈɛ̃} > {i;ˌi;ˈi;ĩ;ˌĩ;ˈĩ} / __ [+hi,+front,+syl]
+
+$tensing of lax pretonics. After stress movement or whatever happened in pětěre > pɛdir, unclear -- p10.  Cohen p8, 9, 10. He has no example for ɔ. Not ostensibly shared wiht French, but Middle Gallo-Roman does have countertonic ˌɔ > ˌo (volēre > vouloir etc.). Unclear if he has a rule for countertonics per se-- see p10. TODO CHECK IF SHARED WITH SPANISH. TODO INSERT IF SO -- otherwise don't, no clear example here. COUNTERBLEEDS ei > ii hiatus rule. 
+
+= Proto-Galician-Portuguese
+
+
